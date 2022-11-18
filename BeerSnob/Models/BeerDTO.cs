@@ -7,7 +7,7 @@
         public string? Brewery { get; set; }
         public float ABV { get; set; }
         public string? Style { get; set; }
-        public bool IsGood { get; set; }
+        public string? IsGood { get; set; }
 
     }
 }
